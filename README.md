@@ -13,6 +13,12 @@ I'm TheOceanBreeze!
 - VSCodium
 - Oh My Fish!
 
+# Interested in Learning
+- Spacemacs/Emacs
+- C
+- Rust
+- Java
+
 # My Websites:
 Current: https://theoceanbreeze.github.io
 
