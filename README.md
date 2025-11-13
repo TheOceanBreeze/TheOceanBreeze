@@ -5,10 +5,10 @@ I'm TheOceanBreeze!
 - 🧠 Current Programming Languages: JavaScript, Python, HTML, CSS, C#
 - 🌱 I’m currently learning Rust, C, and am interested in Java.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use OpenSuSE Linux (Tumbleweed) with Gnome.
+- ⚡ Fun fact: I use CachyOS with Gnome.
 
 # Tools & Languages:
-- OpenSuSE Tumbleweed
+- CachyOS
 - Gnome
 - VSCodium
 - Oh My Fish!
